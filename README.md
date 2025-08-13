@@ -1,5 +1,5 @@
 💼 Full Stack Developer Portfolio
-🚀 Live Portfolio: (Link removed for privacy)
+**🚀 [View Live Portfolio](https://yogesh-bhavsar.github.io/yogesh-bhavsar-portfolio/)**
 
 👨‍💻 Professional Summary
 Experienced Full Stack Developer with 2+ years delivering scalable web solutions that drive business results. Proven track record of improving application performance by 40% and accelerating feature delivery by 25% through modern technologies and best practices.

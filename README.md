@@ -1,6 +1,6 @@
 # 💼 Full Stack Developer Portfolio
 
-**🚀 [View Live Portfolio](https://yogesh-bhavsar.github.io/yogesh-bhavsar-portfolio/)**
+**🚀 [View Live Portfolio](https://byogesh028.github.io/yogesh-bhavsar-portfolio/)**
 
 ## 👨‍💻 Professional Summary
 

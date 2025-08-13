@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my skills, experience, and pro
 
 ## 🌟 Live Demo
 
-**Portfolio Website:** [https://yogesh-bhavsar.github.io/yogesh-bhavsar-portfolio/](https://yogesh-bhavsar.github.io/yogesh-bhavsar-portfolio/)
+**Portfolio Website:** [https://yogesh-bhavsar.github.io/yogesh-bhavsar-portfolio/](https://byogesh028.github.io/yogesh-bhavsar-portfolio/)
 
 ## 📋 About
 

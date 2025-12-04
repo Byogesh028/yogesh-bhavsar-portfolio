@@ -1,120 +1,155 @@
-# 💼 Full Stack Developer Portfolio
+💼 Full Stack Developer Portfolio
 
-**🚀 [View Live Portfolio](https://byogesh028.github.io/yogesh-bhavsar-portfolio/)**
+🚀 View Live Portfolio
 
-## 👨‍💻 Professional Summary
+⚡ Immediate Joiner | Full Stack Developer (Java | Spring Boot | Angular)
 
-**Experienced Full Stack Developer** with 2+ years delivering scalable web solutions that drive business results. Proven track record of improving application performance by 40% and accelerating feature delivery by 25% through modern technologies and best practices.
+👨‍💻 Professional Summary
 
-### 🎯 Key Business Impact
-- 📈 **40% reduction** in page load times across web applications
-- ⚡ **25% faster** feature delivery through modular architecture
-- 🧪 **85% test coverage** ensuring robust, reliable code
-- 🚀 **5 successful** production releases in Agile environments
+Full Stack Developer with 3+ years of experience building scalable, high-performance applications using Java, Spring Boot, Angular, Django, REST APIs, and SQL. Strong background in clean architecture, modular development, and API-driven systems.
 
-## 💼 Professional Experience
-**Full Stack Developer** at **Leading Technology Company** *(2+ Years)*
-- Leading development of scalable web applications serving international markets
-- Integrating machine learning models for data-driven business decisions
-- Collaborating with cross-functional teams in Agile sprints
-- Delivered measurable performance improvements and feature enhancements
+I have consistently delivered 40% performance improvements, accelerated release cycles, and contributed to 5+ successful production deployments in Agile environments.
 
-## 🛠️ Technical Expertise
+🎯 Key Business Impact
 
-### Backend Development
-- **Java & Spring Boot** - Enterprise-grade application development
-- **Django & Python** - Rapid prototyping and ML integration
-- **RESTful APIs** - Scalable microservices architecture
-- **Database Management** - MySQL, MSSQL, MongoDB optimization
+🚀 40% decrease in page load time via backend + SQL optimizations
 
-### Frontend Development
-- **Angular & TypeScript** - Modern SPA development
-- **JavaScript ES6+** - Interactive user interfaces
-- **Responsive Design** - Mobile-first, cross-browser compatibility
-- **Performance Optimization** - Load time reduction strategies
+⚡ 25% faster feature delivery using reusable Angular modules
 
-### DevOps & Tools
-- **Git/GitHub** - Version control and collaboration
-- **Agile/Scrum** - Sprint planning and delivery
-- **Testing** - Unit testing with JUnit, 85% coverage
-- **API Development** - Postman testing and documentation
+🧪 85% test coverage ensuring stable deployments
 
-## 🚀 Featured Projects
+📦 5+ production releases across major product upgrades
 
-### 🌍 **International Job Services Platform** *(Production - African Market)*
-**Business Impact:** Professional home services platform serving growing international market
-- Multi-role system handling users, admins, and service providers
-- Payment processing and job tracking functionality
-- **Tech Stack:** Spring Boot, JSP, jQuery, MSSQL
+🤝 Delivered solutions used by international markets (India + Africa)
 
-### 📊 **Vote Dynamics** *(Predictive Analytics)*
-**Business Impact:** Electoral behavior prediction system using machine learning
-- Python ML models for voting trend forecasting
-- Interactive Angular dashboards for demographic visualization
-- **Tech Stack:** Django, Angular, Scikit-learn, Pandas
+💼 Professional Experience
+Full Stack Developer — Torenzo Technologies (3+ Years)
 
-### 🏢 **Enterprise Management Dashboard**
-**Business Impact:** Welfare distribution system with role-based access control
-- Real-time report generation for administrative efficiency
-- Scalable backend architecture supporting multiple user roles
-- **Tech Stack:** Spring Boot, Hibernate, JSP, MSSQL
+Developed scalable web applications using Spring Boot, Angular, MSSQL, improving performance by 40%
 
-### 👥 **User Management System** *(HR Solution)*
-**Business Impact:** Internal HR access control across multiple divisions
-- Permission hierarchy management for organizational security
-- Reusable Angular components for rapid development
-- **Tech Stack:** Spring Boot, Angular, TypeScript, MSSQL
+Designed REST APIs, reusable UI modules, and microservice-style components
 
-## 🎓 Education & Certifications
+Integrated Django-based ML models for analytics and decision-making workflows
 
-**Bachelor of Engineering in Electrical Engineering** *(2022)*
-- CGPA: 8.71 - Recognized Engineering Institution
+Improved backend efficiency with optimized SQL queries and architecture refinements
 
-**Master Diploma in Java Technologies** *(2023)*
-- Advanced training in enterprise technologies and frameworks
+Delivered multiple production releases within Agile sprint cycles
 
-## 📈 Why Work With Me?
+🛠️ Technical Expertise
+🔧 Backend Development
 
-### ✅ **Proven Results**
-- Delivered measurable business value through performance optimization
-- Consistent track record of meeting project deadlines
-- Experience with international market requirements
+Java, Spring Boot, Hibernate
 
-### ✅ **Modern Technology Stack**
-- Up-to-date with current industry standards
-- Full-stack capability reducing team dependencies
-- Machine learning integration for competitive advantage
+Django, Python ML integrations
 
-### ✅ **Business-Focused Approach**
-- Understanding of real-world business requirements
-- Agile methodology experience for rapid delivery
-- Strong problem-solving and analytical skills
+REST APIs, Microservices Patterns
 
-### ✅ **Team Collaboration**
-- Excellent communication skills
-- Experience in cross-functional team environments
-- Mentoring and knowledge sharing capabilities
+Database optimization: MySQL, MSSQL, MongoDB
 
-## 📞 Let's Connect
+🎨 Frontend Development
 
-I'm actively seeking opportunities to contribute to innovative projects and drive business growth through technology.
+Angular, TypeScript, JavaScript (ES6+)
 
-**📧 Contact:** Available through GitHub profile  
-**💼 Professional Network:** Connect via GitHub  
-**📍 Location:** India *(Open to remote work and relocation)*
+Responsive UI, modular components, performance tuning
 
----
+JSP, Bootstrap, jQuery
 
-### 🎯 Portfolio Highlights
+⚙️ DevOps & Tools
 
-This portfolio website demonstrates:
-- **Professional UI/UX Design** - Modern, responsive interface
-- **Performance Optimization** - Fast loading, smooth animations
-- **Code Quality** - Clean, maintainable, well-structured code
-- **Business Acumen** - Understanding of user experience and conversion
+Git, GitHub, Postman
 
-**🌟 Visit the live portfolio to see these skills in action!**
+Agile / Scrum
 
----
+CI/CD fundamentals
 
-*"Ready to deliver scalable solutions that drive business results"*
+JUnit (85% coverage), debugging, documentation
+
+🚀 Featured Projects
+🌍 Torenzo Job Services – Production (Africa Market)
+
+A live home-services platform used across Ghana.
+Impact: Enabled seamless booking, payments, and role-based workflows.
+Tech: Spring Boot · JSP · jQuery · MSSQL · MDB5
+
+📊 Vote Dynamics – Predictive Analytics Platform
+
+ML-powered system predicting electoral behavior using demographic datasets.
+Impact: Automated election trend prediction + interactive visualization.
+Tech: Django · Angular · Pandas · Scikit-learn · MSSQL
+
+🏢 Smart Elephant – Enterprise Welfare System
+
+Role-based welfare distribution & real-time data insights.
+Impact: Reduced administrative overhead and improved reporting efficiency.
+Tech: Spring Boot · Hibernate · JSP · MSSQL
+
+👥 User Management System – HR Access Control
+
+Enterprise-grade role management tool.
+Impact: Streamlined access control across multiple departments.
+Tech: Spring Boot · Angular · MSSQL · TypeScript
+
+📂 Revenue Guard – Lead Tracking Engine
+
+Automated document auditing + validation system.
+Impact: Improved lead filtering accuracy and reduced manual effort.
+Tech: Spring Boot · Angular · Hibernate · MSSQL
+
+🎓 Education & Certifications
+
+🎓 B.E. in Electrical Engineering (2022)
+CGPA: 8.71
+
+📜 Master Diploma in Java Technologies (2023)
+Java · Spring Boot · Angular · SQL – Advanced Hands-On Training
+
+📈 Why Work With Me?
+🔥 Proven, Measurable Results
+
+Performance, scalability, and UI/UX improvements
+
+Production-ready deliverables
+
+International product exposure
+
+🧠 Strong Technical Foundation
+
+Full-stack capabilities reduce dependency on multiple engineers
+
+Strong API + database + frontend + ML integration skills
+
+🤝 Team Collaboration & Ownership
+
+Cross-functional communication
+
+Sprint ownership
+
+Clean coding & documentation habits
+
+📞 Let’s Connect
+
+💬 I’m actively seeking roles as a Full Stack Developer / Java Developer / Backend Engineer
+⚡ Immediate Joiner
+📍 India (Open to Remote + Relocation)
+
+🔗 Portfolio: https://byogesh028.github.io/yogesh-bhavsar-portfolio/
+
+🔗 LinkedIn: https://linkedin.com/in/yogesh-bhavsar-0b22931a3
+
+🔗 GitHub: https://github.com/yogeshbhavsar
+
+⭐ Final Thoughts
+
+This portfolio showcases:
+
+Professional modern UI/UX
+
+Optimized performance
+
+Clean code structure
+
+Full-stack engineering depth
+
+Business-focused mindset
+
+“I build scalable, reliable solutions that deliver real business impact.”
